@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+
+#MyCan{
+    background-color:rgb(255, 219, 176);
+    border: 1px solid brown;
+    margin-left: 13%;
+    margin-top: 5%;
+}
+#Menu{
+    margin-left: 13%;
+}
+#Scoure{
+    margin-left: 7%;
+}
+#Restart{
+    font-size: 40px;
+    padding-top: -25px;
+    margin-left: 40%;
+}
